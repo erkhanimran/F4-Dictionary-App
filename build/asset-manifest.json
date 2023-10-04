@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4-Dictionary-App/static/css/main.190cc388.css",
+    "main.js": "/F4-Dictionary-App/static/js/main.e35383a0.js",
+    "index.html": "/F4-Dictionary-App/index.html",
+    "main.190cc388.css.map": "/F4-Dictionary-App/static/css/main.190cc388.css.map",
+    "main.e35383a0.js.map": "/F4-Dictionary-App/static/js/main.e35383a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190cc388.css",
+    "static/js/main.e35383a0.js"
+  ]
+}
